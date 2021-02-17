@@ -27,6 +27,12 @@ extensions:
   - Delete namespace
  
 
+## Setup Environment variables
+
+- `AZURE_CLIENT_ID`
+- `AZURE_TENANT_ID`
+- `AZURE_SUBSCRIPTION_ID`
+
 ## Running this Sample ##
 
 To run this sample:
